@@ -9,4 +9,4 @@ Requirements :
 Run the fingercount file hopefully you wont end up in errors :)
 If you do its definitely not because of code hahah!!! Enjoy folks! Bye
 
-![In Action :)](https://github.com/vaidehiu/Finger-count/blob/main/Finger/finger.gif)
+![In Action :)](https://github.com/vaidehiu/Finger-count/blob/main/finger.gif)
